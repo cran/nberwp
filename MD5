@@ -1,0 +1,17 @@
+4a438dc323baa765d73ed12ec599c893 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+dac96e40397789f535c9e58936840491 *R/authors.R
+bbbcb1319a21115399169d80fe45e3f9 *R/paper_authors.R
+59a5a91974bc85d12989286263214451 *R/paper_programs.R
+01e1016fd2d248323534268e9accb3d3 *R/papers.R
+95fa1f190394a2c7fcc908f581d646e5 *R/programs.R
+328619fa2f367f21d378979e6aa9395b *data/authors.rda
+97e6b313f9f121f1f231ab509ebfd547 *data/paper_authors.rda
+c167b47852a08302a0f1d3e777bc1e4b *data/paper_programs.rda
+57b5ddd44b11af8c48c70f7ddf325925 *data/papers.rda
+693295767018170f38b20ba4602be91f *data/programs.rda
+5100d0c831112d0cc8837e44addf79df *man/authors.Rd
+5db1bb6a06dc2d129a215cd49405ab14 *man/paper_authors.Rd
+9c6e00d0073945a292fd478887bebf3f *man/paper_programs.Rd
+003a5f2581c687b86f82fb963e823260 *man/papers.Rd
+774f11d640a11a91a0b04740e97751f5 *man/programs.Rd
