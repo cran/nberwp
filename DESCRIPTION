@@ -1,7 +1,7 @@
 Package: nberwp
 Type: Package
 Title: NBER Working Papers
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: 
   person(given = "Benjamin",
          family = "Davies",
@@ -18,8 +18,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-01-20 23:39:47 UTC; bldavies
+Packaged: 2022-03-27 04:17:19 UTC; bldavies
 Author: Benjamin Davies [aut, cre] (<https://orcid.org/0000-0002-1749-4567>)
 Maintainer: Benjamin Davies <dev@bldavies.com>
 Repository: CRAN
-Date/Publication: 2022-01-21 00:12:42 UTC
+Date/Publication: 2022-03-27 04:30:02 UTC
